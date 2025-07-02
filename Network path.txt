@@ -1,1 +1,6 @@
+7 am coop project trainer network path
+
 \\VINAYTECH\Multi-Tenant Practice\7 AM APR 25\Multi Customer DWH-Tabular Cube Data.xlsx
+
+Others:
+Create a parameter for quick change at cloud level
